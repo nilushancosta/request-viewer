@@ -1,0 +1,1 @@
+![Publish image](https://github.com/nilushancosta/request-viewer/actions/workflows/publish-docker-image.yml/badge.svg)
